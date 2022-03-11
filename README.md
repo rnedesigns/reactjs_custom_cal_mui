@@ -13,4 +13,4 @@ Note: The codebase is generated with *create-react-app* CLI tool by running ```n
 * 3. The application will start running on your default browser on *http://localhost:3000/*
 * 4. Here I have installed required packages: material-ui, bulma and react hook module
 
-Note: the specific version of react hook is compatible with the react version in the package.json i.e., 16.8.0
+Note: the specific version of react hook is compatible with the react version in the package.json i.e., 16.8.0 and it is work-in-progress 
