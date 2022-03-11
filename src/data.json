@@ -1,0 +1,114 @@
+[
+    {
+        "day": 1,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "10:30 AM",
+        "exitAt": "05:30 PM"
+    },
+    {
+        "day": 2,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:30 AM",
+        "exitAt": "04:30 PM"
+    },
+    {
+        "day": 3,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:00 AM",
+        "exitAt": "03:00 PM"
+    },
+    {
+        "day": 4,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "11:00 AM",
+        "exitAt": "04:30 PM"
+    },
+    {
+        "day": 5,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "10:00 AM",
+        "exitAt": "06:30 PM"
+    },
+    {
+        "day": 6,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:30 AM",
+        "exitAt": "04:30 PM"
+    },
+    {
+        "day": 7,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "11:30 AM",
+        "exitAt": "05:00 PM"
+    },
+    {
+        "day": 8,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "10:15 AM",
+        "exitAt": "05:45 PM"
+    },
+    {
+        "day": 9,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:20 AM",
+        "exitAt": "04:45 PM"
+    },
+    {
+        "day": 10,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "8:30 AM",
+        "exitAt": "04:00 PM"
+    },
+    {
+        "day": 11,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:30 AM",
+        "exitAt": "06:30 PM"
+    },
+    {
+        "day": 12,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "8:30 AM",
+        "exitAt": "03:30 PM"
+    },
+    {
+        "day": 13,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:00 AM",
+        "exitAt": "02:30 PM"
+    },
+    {
+        "day": 14,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "8:00 AM",
+        "exitAt": "12:30 PM"
+    },
+    {
+        "day": 15,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "8:45 AM",
+        "exitAt": "04:45 PM"
+    },
+    {
+        "day": 16,
+        "month": 1,
+        "year": 2022,
+        "enteredAt": "9:45 AM",
+        "exitAt": "05:45 PM"
+    }
+]
