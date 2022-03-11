@@ -19,6 +19,7 @@ function Calendar() {
             }
         ]
     });
+    //console.log(actions.addEvent);
     return (
         <table className="container">
             <thead>
